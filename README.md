@@ -54,7 +54,7 @@ Tool ini cocok digunakan jika kamu:
 
 |          Migrasi Semua Tabel           |
 | :------------------------------------: |
-| ![Preview Aplikasi](ss/migration2.png) |
+| ![Preview Aplikasi](ss/migration3.png) |
 
 ---
 
